@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans:wght@300&display=swap');
+
+
+body {
+  margin: 0;
+  background-color: hsl(240, 16%, 18%)
+}
+
+.App {
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: hsl(262, 33%, 94%)
+}
+
+h1 {
+  margin-bottom: 0;
+}
